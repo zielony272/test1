@@ -49,7 +49,7 @@
 
 #include "ops.c" // misc, too clogged otherwise
 
-#define HEN_REPO_URL "http://zielony272.github.io/test/dlc/"
+#define HEN_REPO_URL "http://zielony272.github.io/test1/dlc/"
 #define VDEP_VPK_FNAME "vdep.vpk"
 #define TAIHEN_K_FNAME "taihen.skprx"
 #define TAIHEN_C_FNAME "config.txt" // default config.txt
